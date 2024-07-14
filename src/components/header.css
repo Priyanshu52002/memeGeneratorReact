@@ -1,0 +1,30 @@
+.header{
+    width: 100%;
+    height:auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color:rgb(248, 251, 251);
+    background: rgb(103,34,128);
+  background: linear-gradient(90deg, rgba(103,34,128,1) 52%, rgba(81,58,84,0.9417892156862745) 83%);
+  }
+  .rightSectionHeader{
+    width:25%;
+    height:100%;
+    display: flex;
+    align-items: center;
+    gap:0.5rem;
+  }
+  .rightSectionHeader h3{
+    font-size: 1.4rem;
+  }
+  .memeImage{
+    height: 100%;
+    width:40%;
+    border-radius:50%;
+  }
+  
+  
